@@ -6,6 +6,12 @@ Don't know where to start making games/ simulation on JS?
 Just use this template as the starting point.
 Just enough to get started.
 
+---------
+<img width="381" alt="Screen Shot 2022-10-14 at 5 01 37 PM" src="https://user-images.githubusercontent.com/31877486/195834346-27828703-55e4-4e0f-ba83-2b3a50c85b0c.png">
+
+---------
+
+
 Start simply by cloning the repo:
 
 ```sh

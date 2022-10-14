@@ -4,6 +4,7 @@
 
 Don't know where to start making games/ simulation on JS?
 Just use this template as the starting point.
+Just enough to get started.
 
 Start simply by cloning the repo:
 
